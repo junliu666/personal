@@ -1,0 +1,8 @@
+.meslist_canvas.data-v-129d61f4 {
+  position: fixed;
+  top: 0;
+  width: 200px;
+  height: 200px;
+  visibility: hidden;
+}
+

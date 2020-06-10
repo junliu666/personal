@@ -1,0 +1,67 @@
+.page.data-v-a719be76 {
+  height: 100vh;
+}
+.main.data-v-a719be76 {
+  margin-bottom: 120rpx;
+}
+.main .header.data-v-a719be76 {
+    padding-bottom: 10rpx;
+}
+.main .header .rank .rank-1.data-v-a719be76 {
+      width: 130rpx;
+      height: 170rpx;
+      position: relative;
+}
+.main .header .rank .rank-1 .inner-girl.data-v-a719be76 {
+        position: absolute;
+        width: 120rpx;
+        height: 120rpx;
+        left: 6rpx;
+        top: 47rpx;
+        z-index: 0;
+        border-radius: 100%;
+}
+.main .header .rank .rank-2.data-v-a719be76 {
+      width: 158rpx;
+      height: 207rpx;
+      position: relative;
+}
+.main .header .rank .rank-2 .inner-girl.data-v-a719be76 {
+        position: absolute;
+        width: 144rpx;
+        height: 144rpx;
+        left: 10rpx;
+        top: 57rpx;
+        z-index: 0;
+        border-radius: 100%;
+}
+.main .header .rank .rank-3.data-v-a719be76 {
+      width: 130rpx;
+      height: 170rpx;
+      position: relative;
+}
+.main .header .rank .rank-3 .inner-girl.data-v-a719be76 {
+        position: absolute;
+        width: 120rpx;
+        height: 120rpx;
+        left: 6rpx;
+        top: 47rpx;
+        z-index: 0;
+        border-radius: 100%;
+}
+.main .header .rank .rank-4.data-v-a719be76 {
+      width: 140rpx;
+}
+.main .header .rank .rank-5.data-v-a719be76 {
+      width: 170rpx;
+}
+.main .header .rank .rank-6.data-v-a719be76 {
+      width: 140rpx;
+}
+.main .items.data-v-a719be76 {
+    width: 700rpx;
+    background-color: white;
+    border-radius: 10rpx;
+    padding: 5rpx;
+}
+

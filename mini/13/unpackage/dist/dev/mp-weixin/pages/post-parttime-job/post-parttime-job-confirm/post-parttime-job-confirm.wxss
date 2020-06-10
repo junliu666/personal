@@ -1,0 +1,7 @@
+.main.data-v-e9089e54 {
+  min-height: 100vh;
+}
+input.data-v-e9089e54:disabled {
+  background-color: transparent;
+}
+

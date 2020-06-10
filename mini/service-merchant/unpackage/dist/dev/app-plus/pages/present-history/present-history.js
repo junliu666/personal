@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"main.",[1],"data-v-11335d4a { min-height: 100vh; }\n",],undefined,{path:"./pages/present-history/present-history.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/present-history/present-history.wxml') } }));

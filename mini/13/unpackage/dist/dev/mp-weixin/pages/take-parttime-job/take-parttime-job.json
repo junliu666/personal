@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "loading6": "/components/loading6",
+    "refresh": "/components/refresh",
+    "range-slider": "/components/range-slider/range-slider"
+  }
+}

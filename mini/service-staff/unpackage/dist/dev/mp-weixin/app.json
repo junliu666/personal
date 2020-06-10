@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/basics/layout",
+    "pages/basics/background",
+    "pages/basics/text",
+    "pages/basics/icon",
+    "pages/basics/button",
+    "pages/basics/design",
+    "pages/basics/tag",
+    "pages/basics/avatar",
+    "pages/basics/progress",
+    "pages/basics/shadow",
+    "pages/basics/loading",
+    "pages/component/bar",
+    "pages/component/nav",
+    "pages/component/list",
+    "pages/component/card",
+    "pages/component/form",
+    "pages/component/timeline",
+    "pages/component/chat",
+    "pages/component/swiper",
+    "pages/component/modal",
+    "pages/component/steps",
+    "pages/plugin/indexes",
+    "pages/plugin/animation",
+    "pages/plugin/drawer",
+    "pages/plugin/verticalnav",
+    "pages/people-detail/people-detail",
+    "pages/booking/booking",
+    "pages/booking-history/booking-history",
+    "pages/present-history/present-history",
+    "pages/search/search",
+    "pages/book/book",
+    "pages/swiper/swiper"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "技师端",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "permission": {},
+  "usingComponents": {
+    "basics": "/pages/basics/home",
+    "components": "/pages/component/home",
+    "plugin": "/pages/plugin/home",
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap27.json"
+}

@@ -1,0 +1,7 @@
+.main.data-v-49b96086 {
+  min-height: 100vh;
+}
+input.data-v-49b96086:disabled {
+  background-color: transparent;
+}
+

@@ -1,0 +1,1 @@
+<view><cu-custom vue-id="7fff8490-1" bgColor="bg-main" isBack="{{true}}" bind:__l="__l" vue-slots="{{['backText','content','right']}}"><view slot="backText"></view><view slot="content">客服中心</view><view slot="right"></view></cu-custom></view>

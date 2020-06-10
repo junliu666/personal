@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tfgg-verify": "/components/tfgg-verify/tfgg-verify",
+    "digit-keyboard": "/components/custom-digitKeyboard/custom-digitKeyboard"
+  }
+}

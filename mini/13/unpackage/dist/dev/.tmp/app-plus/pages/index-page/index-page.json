@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "take-part-time": "/pages/take-parttime-job/take-parttime-job",
+    "take-full-time": "/pages/take-fulltime-job/take-fulltime-job",
+    "communication-list": "/pages/communication-list/communication-list",
+    "mine-home": "/pages/mine-home/mine-home"
+  }
+}

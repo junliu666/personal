@@ -1,0 +1,16 @@
+page {
+    background-color: #151515;
+    color: white;
+    font-family: '微軟雅黑'
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 300rpx;
+    width: 100vw;
+    height: 80vh
+}
+
+.box {}

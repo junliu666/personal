@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="main">
+    <view>
+        京
+    </view>
+    <view>
+        裝
+    </view>
+  </view>
+</view>

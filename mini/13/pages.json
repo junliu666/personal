@@ -1,0 +1,504 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/take-job-mapR/take-job-mapR",
+		    "style" : {}
+		},
+		{
+		    "path" : "pages/take-job-map/take-job-map",
+		    "style" : {}
+		}, 
+		{
+		    "path" : "pages/index-page/index-page",
+		    "style" : {
+		    }
+		},
+		{
+			"path": "pages/index/index",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/layout",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/background",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/text",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/icon",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/button",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/design",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/tag",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/avatar",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/progress",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/shadow",
+			"style": {}
+		},
+		{
+			"path": "pages/basics/loading",
+			"style": {}
+		},
+		{
+			"path": "pages/plugin/indexes",
+			"style": {}
+		}, {
+			"path": "pages/plugin/animation",
+			"style": {}
+		}, {
+			"path": "pages/plugin/drawer",
+			"style": {}
+		}, {
+			"path": "pages/plugin/verticalnav",
+			"style": {}
+		},  {
+			"path": "pages/login/login",
+			"style": {}
+		}
+	    ,{
+            "path" : "pages/login-verify/login-verify",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/login-accpwd/login-accpwd",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/login-forgetpwd/login-forgetpwd",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/take-parttime-job/take-parttime-job",
+            "style" : {
+				"enablePullDownRefresh": true
+			}
+        }
+        ,{
+            "path" : "pages/take-fulltime-job/take-fulltime-job",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/post-parttime-job/post-parttime-job",
+            "style" : {
+				"app-plus": {  
+				   "background":"#f9f9f9" //此处背景色与页面中一致
+				}
+			}
+        }
+        ,{
+            "path" : "pages/communication-list/communication-list",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/mine-home/mine-home",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/userinfo/messagelist/messagelist",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/take-map-filter/take-map-filter",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/post-parttime-job/post-parttime-job-two/post-parttime-job-two",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/post-parttime-job/post-parttime-job-three/post-parttime-job-three",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/post-parttime-job/post-parttime-job-confirm/post-parttime-job-confirm",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/setting/setting",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/setting/address/address",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/setting/security/security",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/setting/address/address-edit/address-edit",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/setting/address/address-add/address-add",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/parttime-detail/parttime-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fulltime-detail/fulltime-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/invite-qrcode/invite-qrcode",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-home/my-home",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-resume/my-resume",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-friend/my-friend",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-history/my-history",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-switch/my-switch",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-service/my-service",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-advice/my-advice",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-advice/my-advice-detail/my-advice-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-home/my-home-edit/my-home-edit",
+            "style" : {}
+        },
+		{
+			"path": "pages/component/bar",
+			"style": {}
+		},
+		{
+			"path": "pages/component/card",
+			"style": {}
+		},
+		{
+			"path": "pages/component/chat",
+			"style": {}
+		},
+		{
+			"path": "pages/component/form",
+			"style": {}
+		},
+		{
+			"path": "pages/component/home",
+			"style": {}
+		},
+		{
+			"path": "pages/component/list",
+			"style": {}
+		},
+		{
+			"path": "pages/component/modal",
+			"style": {}
+		},
+		{
+			"path": "pages/component/nav",
+			"style": {}
+		},
+		{
+			"path": "pages/component/steps",
+			"style": {}
+		},
+		{
+			"path": "pages/component/swiper",
+			"style": {}
+		},
+		{
+			"path": "pages/component/timeline",
+			"style": {}
+		}
+        ,{
+            "path" : "pages/doing-parttimejob/doing-parttimejob",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/doing-parttimejob-detail/doing-parttimejob-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/doing-parttimejob-poster-detail/doing-parttimejob-poster-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-wallet/my-wallet",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-wallet/my-wallet-bankcard/my-wallet-bankcard",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-wallet/my-wallet-bankcard/my-wallet-bankcard-add/my-wallet-bankcard-add",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-wallet/my-wallet-bankcard/my-wallet-bankcard-confirm/my-wallet-bankcard-confirm",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-post/my-post",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-take/my-take",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-comment/my-comment",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-desire/my-desire",
+            "style" : {}
+			
+        }
+        ,{
+            "path" : "pages/personal/pages/my-collect/my-collect",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/people-detail/people-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/order-detail/order-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/firm/firm-verify/firm-verify",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-verify/firm-verify-first/firm-verify-first",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-verify/firm-verify-second/firm-verify-second",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-verify/firm-verify-small/firm-verify-small",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-index/firm-index",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-home/firm-home",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-mine",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-position/firm-position",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-resume/firm-resume",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-post/firm-post",
+            "style" : {
+				"navigationBarTextStyle":"black"
+			}
+        }
+        ,{
+            "path" : "pages/firm/firm-message/firm-message",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-post/firm-post-two/firm-post-two",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-post/firm-post-three/firm-post-three",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-post/firm-post-confirm/firm-post-confirm",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-info/firm-info",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-wallet/firm-wallet",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-profit/firm-profit",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-invoice/firm-invoice",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-resume/firm-resume",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-setting/firm-setting",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-switch/firm-switch",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-person/firm-person",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-advice/firm-advice",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-wallet/firm-wallet-list/firm-wallet-list",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-wallet/firm-wallet-add/firm-wallet-add",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-user-info/firm-user-info",
+            "style" : {
+            	"navigationBarTextStyle":"black"
+            }
+        }
+        ,{
+            "path" : "pages/firm/firm-mine/firm-advice/firm-advice-detail/firm-advice-detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/post-parttime-job/post-date/post-date",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/verify/verify",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/personal/pages/my-info/my-info",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"mp-alipay": {
+			/* 支付宝小程序特有相关 */
+			"transparentTitle": "always",
+			"allowsBounceVertical": "NO"
+		},
+		"navigationBarBackgroundColor": "#0081ff",
+		"navigationBarTitleText": "xiangyouxian",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white"
+	},
+	"usingComponts": true,
+		"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+				"name": "表单", //模式名称
+				"path": "pages/take-job-mapR/take-job-mapR", //启动页面
+				"query": "" //启动参数
+			}
+		]
+	}
+
+}

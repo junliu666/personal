@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "digit-keyboard": "/components/custom-digitKeyboard/custom-digitKeyboard"
+  }
+}

@@ -1,0 +1,26 @@
+.main .booking.data-v-d3b573e0 {
+  width: 700rpx;
+  height: 100rpx;
+  border-top-right-radius: 50rpx;
+  border-top-left-radius: 50rpx;
+  border-bottom-left-radius: 50rpx;
+  border-bottom-right-radius: 50rpx;
+}
+.main .body.data-v-d3b573e0 {
+  width: 700rpx;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
+  border-radius: 10rpx;
+}
+.main .body .items.data-v-d3b573e0 {
+    width: 680rpx;
+    margin-left: 20rpx;
+}
+.main .body .items .items-inside.data-v-d3b573e0 {
+      width: 100%;
+      border-bottom: 1px solid #f5f5f5;
+}
+.main .body .items .items-inside-2.data-v-d3b573e0 {
+      width: 100%;
+}
+

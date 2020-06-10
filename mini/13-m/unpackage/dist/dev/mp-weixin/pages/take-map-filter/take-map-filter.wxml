@@ -1,0 +1,1 @@
+<view><cu-custom vue-id="0ee1c0a0-1" bgColor="bg-main" isBack="{{true}}" bind:__l="__l" vue-slots="{{['backText','content']}}"><view slot="backText"></view><view slot="content"></view></cu-custom></view>

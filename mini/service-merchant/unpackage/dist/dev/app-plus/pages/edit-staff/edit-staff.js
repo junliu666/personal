@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page.",[1],"data-v-92cd0a38 { min-height: 100vh; }\n",],undefined,{path:"./pages/edit-staff/edit-staff.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/edit-staff/edit-staff.wxml') } }));

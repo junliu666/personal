@@ -1,0 +1,25 @@
+.fresh-box.data-v-3f3e65d8 {
+  z-index: 99999;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.box.data-v-3f3e65d8 {
+  z-index: 999;
+  position: fixed;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  top: 0;
+  width: 100%;
+  height: 80%;
+  border-radius: 3000px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  overflow: hidden;
+}
+

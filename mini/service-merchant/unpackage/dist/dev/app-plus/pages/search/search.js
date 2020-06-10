@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"main.",[1],"data-v-323de684 { min-height: 100vh; }\n",],undefined,{path:"./pages/search/search.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/search/search.wxml') } }));

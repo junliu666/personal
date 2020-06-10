@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"wrapper.",[1],"data-v-2699b1f8 { min-height: 100vh; }\n",],undefined,{path:"./pages/booking/booking.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/booking/booking.wxml') } }));

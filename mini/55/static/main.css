@@ -1,0 +1,118 @@
+/* #ifdef APP-PLUS-NVUE */
+body {
+	background-color: #f9f9f9;
+	font-size: 28upx;
+	color: #333333;
+	font-family: "黑体";
+}
+/* #endif */
+
+.margin-left-sm{
+	margin-left: 20upx;
+}
+.margin-left-xs{
+	margin-left: 10upx;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+
+.margin-right-sm{
+	margin-right: 20upx;
+}
+
+.round {
+	border-radius: 5000upx;
+}
+
+.radius {
+	border-radius: 6upx;
+}
+
+.bg-white{
+	background-color: white;
+}
+
+.flex-row{
+	flex-direction: row;
+}
+
+.align-center{
+	align-items: center;
+}
+
+.bg-main{
+	background-color: #72b9ea;
+	color: #ffffff;
+
+	
+}
+
+.bg-sub-main{
+	background-color: #fe6f61 ;
+	color: white;
+}
+
+.text-main,
+.line-main,
+.lines-main {
+	color: #72b9ea ;
+}
+
+.text-white,
+.line-white,
+.lines-white {
+	color: white ;
+}
+
+.text-gray,
+.line-gray,
+.lines-gray {
+	color: #F9F9F9;
+}
+
+.flex{
+	display: flex;
+}
+
+.flex-direction{
+	flex-direction: column;
+}
+
+.fixed{position: fixed;}
+
+.justify-between{
+	justify-content: space-between;
+}
+
+.justify-center{
+	justify-content: center;
+}
+
+.padding-xs {
+	padding: 10upx;
+}
+
+.padding-sm {
+	padding: 20upx;
+}
+
+.padding {
+	padding: 30upx;
+}
+
+.padding-lg {
+	padding: 40upx;
+}
+
+
+/* *****************************
+			BUTOON 按钮
+****************************** */
+.cu-btn.shadow-blur::before {
+	top: 4upx;
+	left: 4upx;
+	filter: blur(6upx);
+	opacity: 0.6;
+}

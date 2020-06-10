@@ -1,0 +1,7 @@
+.main.data-v-49dd2f5d {
+  min-height: 100vh;
+}
+input.data-v-49dd2f5d:disabled {
+  background-color: transparent;
+}
+

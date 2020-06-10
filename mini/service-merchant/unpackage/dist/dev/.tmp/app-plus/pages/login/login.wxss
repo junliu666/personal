@@ -1,0 +1,25 @@
+.main.data-v-20ded518 {
+  min-height: 100vh;
+  background-color: white;
+}
+.main .inputs.data-v-20ded518 {
+    width: 450rpx;
+    padding-bottom: 20rpx;
+    height: 60rpx;
+    border-bottom: 2px solid #666666;
+    margin-bottom: 80rpx;
+}
+.main .inputs.data-v-20ded518:hover {
+    border-color: #f5df2c;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+.main .inputs2.data-v-20ded518 {
+    width: 450rpx;
+    padding-bottom: 20rpx;
+    height: 60rpx;
+    border-bottom: 2px solid #f5df2c;
+    margin-bottom: 80rpx;
+}
+
